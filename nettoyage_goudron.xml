@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Nettoyage Goudron - Messages du jour</title>
+    <link>https://example.com/rss/nettoyage-goudron.xml</link>
+    <description>Messages quotidiens pour le sevrage tabagique et la purification.</description>
+    <item>
+      <title>Jour 1</title>
+      <description>Jour 1 – Aujourd’hui commence le nettoyage. Chaque souffle est un pas vers la clarté.</description>
+      <pubDate>Tue, 20 May 2025 09:30:00 +0200</pubDate>
+      <guid>jour-1</guid>
+    </item>
+    <item>
+      <title>Jour 2</title>
+      <description>Jour 2 – Tes poumons commencent déjà à se libérer. L’air circule un peu mieux.</description>
+      <pubDate>Wed, 21 May 2025 09:30:00 +0200</pubDate>
+      <guid>jour-2</guid>
+    </item>
+    <item>
+      <title>Jour 3</title>
+      <description>Jour 3 – L’irritation diminue. L’intérieur retrouve une paix oubliée.</description>
+      <pubDate>Thu, 22 May 2025 09:30:00 +0200</pubDate>
+      <guid>jour-3</guid>
+    </item>
+    <item>
+      <title>Jour 4</title>
+      <description>Jour 4 – Tu reprends pouvoir sur ton souffle. Le corps te remercie.</description>
+      <pubDate>Fri, 23 May 2025 09:30:00 +0200</pubDate>
+      <guid>jour-4</guid>
+    </item>
+    <item>
+      <title>Jour 5</title>
+      <description>Jour 5 – Les bronches se détendent. Tu gagnes en amplitude, en espace.</description>
+      <pubDate>Sat, 24 May 2025 09:30:00 +0200</pubDate>
+      <guid>jour-5</guid>
+    </item>
+    <item>
+      <title>Jour 6</title>
+      <description>Jour 6 – Tu es plus vivant. Le goudron recule, la lumière revient.</description>
+      <pubDate>Sun, 25 May 2025 09:30:00 +0200</pubDate>
+      <guid>jour-6</guid>
+    </item>
+    <item>
+      <title>Jour 7</title>
+      <description>Jour 7 – Une semaine. Tu tiens. Tu es digne de ton choix.</description>
+      <pubDate>Mon, 26 May 2025 09:30:00 +0200</pubDate>
+      <guid>jour-7</guid>
+    </item>
+    <item>
+      <title>Jour 8</title>
+      <description>Jour 8 – Le goût change. L’odeur du monde s’affine.</description>
+      <pubDate>Tue, 27 May 2025 09:30:00 +0200</pubDate>
+      <guid>jour-8</guid>
+    </item>
+    <item>
+      <title>Jour 9</title>
+      <description>Jour 9 – La respiration est moins lourde. Le cœur est plus léger.</description>
+      <pubDate>Wed, 28 May 2025 09:30:00 +0200</pubDate>
+      <guid>jour-9</guid>
+    </item>
+    <item>
+      <title>Jour 10</title>
+      <description>Jour 10 – Demi-parcours. Tu tiens la main de ton futur.</description>
+      <pubDate>Thu, 29 May 2025 09:30:00 +0200</pubDate>
+      <guid>jour-10</guid>
+    </item>
+    <item>
+      <title>Jour 11</title>
+      <description>Jour 11 – Le corps commence à se réparer en profondeur.</description>
+      <pubDate>Fri, 30 May 2025 09:30:00 +0200</pubDate>
+      <guid>jour-11</guid>
+    </item>
+    <item>
+      <title>Jour 12</title>
+      <description>Jour 12 – Tu tousses peut-être, mais c’est le grand nettoyage.</description>
+      <pubDate>Sat, 31 May 2025 09:30:00 +0200</pubDate>
+      <guid>jour-12</guid>
+    </item>
+    <item>
+      <title>Jour 13</title>
+      <description>Jour 13 – Tes cellules exultent. Tu coupes le lien toxique.</description>
+      <pubDate>Sun, 01 Jun 2025 09:30:00 +0200</pubDate>
+      <guid>jour-13</guid>
+    </item>
+    <item>
+      <title>Jour 14</title>
+      <description>Jour 14 – Tu es plus libre qu’hier. Et ce sera encore plus vrai demain.</description>
+      <pubDate>Mon, 02 Jun 2025 09:30:00 +0200</pubDate>
+      <guid>jour-14</guid>
+    </item>
+    <item>
+      <title>Jour 15</title>
+      <description>Jour 15 – L’air devient un ami. Tu sais respirer à nouveau.</description>
+      <pubDate>Tue, 03 Jun 2025 09:30:00 +0200</pubDate>
+      <guid>jour-15</guid>
+    </item>
+    <item>
+      <title>Jour 16</title>
+      <description>Jour 16 – Ta volonté a changé le cours de ton histoire.</description>
+      <pubDate>Wed, 04 Jun 2025 09:30:00 +0200</pubDate>
+      <guid>jour-16</guid>
+    </item>
+    <item>
+      <title>Jour 17</title>
+      <description>Jour 17 – Même si c’est dur, ton corps ne veut plus de poison.</description>
+      <pubDate>Thu, 05 Jun 2025 09:30:00 +0200</pubDate>
+      <guid>jour-17</guid>
+    </item>
+    <item>
+      <title>Jour 18</title>
+      <description>Jour 18 – L’énergie revient, stable, propre, claire.</description>
+      <pubDate>Fri, 06 Jun 2025 09:30:00 +0200</pubDate>
+      <guid>jour-18</guid>
+    </item>
+    <item>
+      <title>Jour 19</title>
+      <description>Jour 19 – Tu as tenu 19 jours. Ce n’est pas rien. C’est immense.</description>
+      <pubDate>Sat, 07 Jun 2025 09:30:00 +0200</pubDate>
+      <guid>jour-19</guid>
+    </item>
+    <item>
+      <title>Jour 20</title>
+      <description>Jour 20 – Demain, ce sera un nouveau cycle. Prépare-toi à le nourrir.</description>
+      <pubDate>Sun, 08 Jun 2025 09:30:00 +0200</pubDate>
+      <guid>jour-20</guid>
+    </item>
+    <item>
+      <title>Jour 21</title>
+      <description>Jour 21 – Tu l’as fait. Le corps a changé. L’esprit aussi. Maintenant, tu choisis.</description>
+      <pubDate>Mon, 09 Jun 2025 09:30:00 +0200</pubDate>
+      <guid>jour-21</guid>
+    </item>
+    <item>
+      <title>Après 21 jours</title>
+      <description>Tu peux continuer ce chemin. Chaque jour est un nouveau souffle.</description>
+      <pubDate>Tue, 10 Jun 2025 09:30:00 +0200</pubDate>
+      <guid>post-21</guid>
+    </item>
+  </channel>
+</rss>
