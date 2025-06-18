@@ -1,0 +1,674 @@
+[
+  {
+    "id": 1,
+    "fr": "Joie",
+    "en": "Joy",
+    "es": "Alegría",
+    "definition": "Émotion positive intense liée au plaisir, au bonheur ou à la réussite."
+  },
+  {
+    "id": 2,
+    "fr": "Tristesse",
+    "en": "Sadness",
+    "es": "Tristeza",
+    "definition": "État de mal-être lié à une perte, une douleur ou une déception."
+  },
+  {
+    "id": 3,
+    "fr": "Colère",
+    "en": "Anger",
+    "es": "Ira",
+    "definition": "Réaction émotionnelle forte face à une injustice ou une frustration."
+  },
+  {
+    "id": 4,
+    "fr": "Peur",
+    "en": "Fear",
+    "es": "Miedo",
+    "definition": "Émotion d'alerte face à un danger ou une menace."
+  },
+  {
+    "id": 5,
+    "fr": "Dégoût",
+    "en": "Disgust",
+    "es": "Asco",
+    "definition": "Réaction de rejet envers quelque chose de perçu comme répugnant ou immoral."
+  },
+  {
+    "id": 6,
+    "fr": "Surprise",
+    "en": "Surprise",
+    "es": "Sorpresa",
+    "definition": "Réaction face à un événement inattendu."
+  },
+  {
+    "id": 7,
+    "fr": "Amour",
+    "en": "Love",
+    "es": "Amor",
+    "definition": "Attachement profond et affectueux envers quelqu’un ou quelque chose."
+  },
+  {
+    "id": 8,
+    "fr": "Honte",
+    "en": "Shame",
+    "es": "Vergüenza",
+    "definition": "Sentiment de malaise lié à un comportement perçu comme inacceptable."
+  },
+  {
+    "id": 9,
+    "fr": "Culpabilité",
+    "en": "Guilt",
+    "es": "Culpa",
+    "definition": "Émotion liée au regret d’une action considérée comme mauvaise."
+  },
+  {
+    "id": 10,
+    "fr": "Fierté",
+    "en": "Pride",
+    "es": "Orgullo",
+    "definition": "Sentiment de satisfaction personnelle lié à une réussite ou une qualité."
+  },
+  {
+    "id": 11,
+    "fr": "Gratitude",
+    "en": "Gratitude",
+    "es": "Gratitud",
+    "definition": "Reconnaissance ressentie envers un bienfait reçu."
+  },
+  {
+    "id": 12,
+    "fr": "Espoir",
+    "en": "Hope",
+    "es": "Esperanza",
+    "definition": "Attente confiante d’un avenir meilleur."
+  },
+  {
+    "id": 13,
+    "fr": "Désespoir",
+    "en": "Despair",
+    "es": "Desesperación",
+    "definition": "Absence d’espoir, état de profonde détresse."
+  },
+  {
+    "id": 14,
+    "fr": "Ennui",
+    "en": "Boredom",
+    "es": "Aburrimiento",
+    "definition": "Manque d’intérêt ou de stimulation."
+  },
+  {
+    "id": 15,
+    "fr": "Enthousiasme",
+    "en": "Enthusiasm",
+    "es": "Entusiasmo",
+    "definition": "Excitation joyeuse face à une activité ou une idée."
+  },
+  {
+    "id": 16,
+    "fr": "Anxiété",
+    "en": "Anxiety",
+    "es": "Ansiedad",
+    "definition": "Inquiétude diffuse souvent sans cause précise."
+  },
+  {
+    "id": 17,
+    "fr": "Sérénité",
+    "en": "Serenity",
+    "es": "Serenidad",
+    "definition": "Calme intérieur profond, absence de trouble."
+  },
+  {
+    "id": 18,
+    "fr": "Jalousie",
+    "en": "Jealousy",
+    "es": "Celos",
+    "definition": "Peur de perdre quelque chose ou quelqu’un au profit d’un autre."
+  },
+  {
+    "id": 19,
+    "fr": "Mépris",
+    "en": "Contempt",
+    "es": "Desprecio",
+    "definition": "Sentiment de supériorité et de dédain envers autrui."
+  },
+  {
+    "id": 20,
+    "fr": "Tendresse",
+    "en": "Tenderness",
+    "es": "Ternura",
+    "definition": "Expression douce de l’affection."
+  },
+  {
+    "id": 21,
+    "fr": "Solitude",
+    "en": "Loneliness",
+    "es": "Soledad",
+    "definition": "Sentiment de vide ou d’isolement."
+  },
+  {
+    "id": 22,
+    "fr": "Soulagement",
+    "en": "Relief",
+    "es": "Alivio",
+    "definition": "Détente ressentie après la disparition d’un stress."
+  },
+  {
+    "id": 23,
+    "fr": "Panique",
+    "en": "Panic",
+    "es": "Pánico",
+    "definition": "Terreur soudaine et intense, souvent irrationnelle."
+  },
+  {
+    "id": 24,
+    "fr": "Déception",
+    "en": "Disappointment",
+    "es": "Decepción",
+    "definition": "Tristesse liée à une attente non satisfaite."
+  },
+  {
+    "id": 25,
+    "fr": "Compassion",
+    "en": "Compassion",
+    "es": "Compasión",
+    "definition": "Empathie envers la souffrance d’autrui."
+  },
+  {
+    "id": 26,
+    "fr": "Admiration",
+    "en": "Admiration",
+    "es": "Admiración",
+    "definition": "Appréciation intense de la beauté ou des qualités d’un être ou d’une chose."
+  },
+  {
+    "id": 27,
+    "fr": "Haute estime",
+    "en": "Esteem",
+    "es": "Estima",
+    "definition": "Respect profond envers une personne ou une valeur."
+  },
+  {
+    "id": 28,
+    "fr": "Inspiration",
+    "en": "Inspiration",
+    "es": "Inspiración",
+    "definition": "Élan intérieur créatif ou spirituel."
+  },
+  {
+    "id": 29,
+    "fr": "Mélancolie",
+    "en": "Melancholy",
+    "es": "Melancolía",
+    "definition": "Tristesse douce et contemplative."
+  },
+  {
+    "id": 30,
+    "fr": "Nostalgie",
+    "en": "Nostalgia",
+    "es": "Nostalgia",
+    "definition": "Regret tendre d’un temps passé."
+  },
+  {
+    "id": 31,
+    "fr": "Ressentiment",
+    "en": "Resentment",
+    "es": "Resentimiento",
+    "definition": "Rancœur persistante liée à une blessure passée."
+  },
+  {
+    "id": 32,
+    "fr": "Émerveillement",
+    "en": "Awe",
+    "es": "",
+    "definition": "Admiration mêlée de respect ou de crainte devant quelque chose de grand."
+  },
+  {
+    "id": 33,
+    "fr": "Vulnérabilité",
+    "en": "Vulnerability",
+    "es": "",
+    "definition": "Sentiment d'exposition ou de fragilité."
+  },
+  {
+    "id": 34,
+    "fr": "Épanouissement",
+    "en": "Fulfillment",
+    "es": "",
+    "definition": "Sentiment d'accomplissement profond."
+  },
+  {
+    "id": 35,
+    "fr": "Frustration",
+    "en": "Frustration",
+    "es": "",
+    "definition": "Colère ou irritation liée à un obstacle."
+  },
+  {
+    "id": 36,
+    "fr": "Doute",
+    "en": "Doubt",
+    "es": "",
+    "definition": "Incertitude ou hésitation face à un choix."
+  },
+  {
+    "id": 37,
+    "fr": "Satisfaction",
+    "en": "Satisfaction",
+    "es": "",
+    "definition": "Sensation de contentement lié à un besoin comblé."
+  },
+  {
+    "id": 38,
+    "fr": "Affection",
+    "en": "Affection",
+    "es": "",
+    "definition": "Attachement tendre envers quelqu’un."
+  },
+  {
+    "id": 39,
+    "fr": "Curiosité",
+    "en": "Curiosity",
+    "es": "",
+    "definition": "Désir d’apprendre ou de découvrir."
+  },
+  {
+    "id": 40,
+    "fr": "Inquiétude",
+    "en": "Worry",
+    "es": "",
+    "definition": "Souci persistant concernant un événement ou une personne."
+  },
+  {
+    "id": 41,
+    "fr": "Détermination",
+    "en": "Determination",
+    "es": "",
+    "definition": "Volonté forte d’atteindre un objectif."
+  },
+  {
+    "id": 42,
+    "fr": "Détresse",
+    "en": "Distress",
+    "es": "",
+    "definition": "Souffrance mentale ou physique intense."
+  },
+  {
+    "id": 43,
+    "fr": "Plénitude",
+    "en": "Wholeness",
+    "es": "",
+    "definition": "Sensation de complétude et d’équilibre."
+  },
+  {
+    "id": 44,
+    "fr": "Répulsion",
+    "en": "Revulsion",
+    "es": "",
+    "definition": "Forte aversion envers une idée ou une chose."
+  },
+  {
+    "id": 45,
+    "fr": "Stupéfaction",
+    "en": "Astonishment",
+    "es": "",
+    "definition": "Étonnement très intense."
+  },
+  {
+    "id": 46,
+    "fr": "Injustice",
+    "en": "Outrage",
+    "es": "",
+    "definition": "Colère face à un traitement perçu comme injuste."
+  },
+  {
+    "id": 47,
+    "fr": "Regret",
+    "en": "Regret",
+    "es": "",
+    "definition": "Peine liée à une action passée."
+  },
+  {
+    "id": 48,
+    "fr": "Fascination",
+    "en": "Fascination",
+    "es": "",
+    "definition": "Attirance intense pour quelque chose."
+  },
+  {
+    "id": 49,
+    "fr": "Attente",
+    "en": "Anticipation",
+    "es": "",
+    "definition": "État de projection vers un événement futur."
+  },
+  {
+    "id": 50,
+    "fr": "Confiance",
+    "en": "Trust",
+    "es": "",
+    "definition": "Sentiment de sécurité envers quelqu’un ou quelque chose."
+  },
+  {
+    "id": 51,
+    "fr": "Dévotion",
+    "en": "Devotion",
+    "es": "",
+    "definition": "Attachement profond et désintéressé."
+  },
+  {
+    "id": 52,
+    "fr": "Effroi",
+    "en": "Dread",
+    "es": "",
+    "definition": "Crainte anticipée et paralysante."
+  },
+  {
+    "id": 53,
+    "fr": "Tranquillité",
+    "en": "Tranquility",
+    "es": "",
+    "definition": "Paix calme et sans agitation."
+  },
+  {
+    "id": 54,
+    "fr": "Étonnement",
+    "en": "Amazement",
+    "es": "",
+    "definition": "Mélange de surprise et d'admiration."
+  },
+  {
+    "id": 55,
+    "fr": "Complicité",
+    "en": "Closeness",
+    "es": "",
+    "definition": "Connexion intime et spontanée."
+  },
+  {
+    "id": 56,
+    "fr": "Insécurité",
+    "en": "Insecurity",
+    "es": "",
+    "definition": "Sentiment de manque de confiance ou de protection."
+  },
+  {
+    "id": 57,
+    "fr": "Séduction",
+    "en": "Attraction",
+    "es": "",
+    "definition": "Pouvoir d’attirer ou de charmer."
+  },
+  {
+    "id": 58,
+    "fr": "Arrogance",
+    "en": "Arrogance",
+    "es": "",
+    "definition": "Attitude de supériorité prétentieuse."
+  },
+  {
+    "id": 59,
+    "fr": "Dévouement",
+    "en": "Commitment",
+    "es": "",
+    "definition": "Engagement profond envers une cause ou une personne."
+  },
+  {
+    "id": 60,
+    "fr": "Lassitude",
+    "en": "Weariness",
+    "es": "",
+    "definition": "Fatigue morale ou physique."
+  },
+  {
+    "id": 61,
+    "fr": "Désillusion",
+    "en": "Disillusionment",
+    "es": "",
+    "definition": "Perte de croyance ou d’espoir."
+  },
+  {
+    "id": 62,
+    "fr": "Soutien",
+    "en": "Support",
+    "es": "",
+    "definition": "Sensation d’être accompagné ou soutenu."
+  },
+  {
+    "id": 63,
+    "fr": "Sincérité",
+    "en": "Sincerity",
+    "es": "",
+    "definition": "Authenticité dans les sentiments ou propos."
+  },
+  {
+    "id": 64,
+    "fr": "Pitié",
+    "en": "Pity",
+    "es": "",
+    "definition": "Compassion teintée de condescendance."
+  },
+  {
+    "id": 65,
+    "fr": "Sécurité",
+    "en": "Safety",
+    "es": "",
+    "definition": "Sentiment d’être protégé du danger."
+  },
+  {
+    "id": 66,
+    "fr": "Abandon",
+    "en": "Abandonment",
+    "es": "",
+    "definition": "Sensation d’être laissé pour compte."
+  },
+  {
+    "id": 67,
+    "fr": "Excitation",
+    "en": "Excitement",
+    "es": "",
+    "definition": "Éveil intense des sens ou des émotions."
+  },
+  {
+    "id": 68,
+    "fr": "Légèreté",
+    "en": "Lightness",
+    "es": "",
+    "definition": "Sensation de liberté ou d’insouciance."
+  },
+  {
+    "id": 69,
+    "fr": "Modestie",
+    "en": "Modesty",
+    "es": "",
+    "definition": "Humilité dans la manière d’être."
+  },
+  {
+    "id": 70,
+    "fr": "Fureur",
+    "en": "Rage",
+    "es": "",
+    "definition": "Colère explosive et incontrôlée."
+  },
+  {
+    "id": 71,
+    "fr": "Embarras",
+    "en": "Embarrassment",
+    "es": "",
+    "definition": "Gêne dans une situation inconfortable."
+  },
+  {
+    "id": 72,
+    "fr": "Respect",
+    "en": "Respect",
+    "es": "",
+    "definition": "Considération envers quelqu’un."
+  },
+  {
+    "id": 73,
+    "fr": "Cohérence",
+    "en": "Coherence",
+    "es": "",
+    "definition": "Alignement intérieur et logique personnelle."
+  },
+  {
+    "id": 74,
+    "fr": "Obsession",
+    "en": "Obsession",
+    "es": "",
+    "definition": "Idée persistante et envahissante."
+  },
+  {
+    "id": 75,
+    "fr": "Consolation",
+    "en": "Comfort",
+    "es": "",
+    "definition": "Soulagement émotionnel face à une peine."
+  },
+  {
+    "id": 76,
+    "fr": "Rejet",
+    "en": "Rejection",
+    "es": "",
+    "definition": "Sentiment d’exclusion ou de refus."
+  },
+  {
+    "id": 77,
+    "fr": "Clarté",
+    "en": "Clarity",
+    "es": "",
+    "definition": "Vision mentale nette ou compréhension limpide."
+  },
+  {
+    "id": 78,
+    "fr": "Espièglerie",
+    "en": "Playfulness",
+    "es": "",
+    "definition": "Disposition à jouer, à taquiner gentiment."
+  },
+  {
+    "id": 79,
+    "fr": "Rancune",
+    "en": "Grudge",
+    "es": "",
+    "definition": "Souvenir tenace d’un tort passé."
+  },
+  {
+    "id": 80,
+    "fr": "Confusion",
+    "en": "Confusion",
+    "es": "",
+    "definition": "Manque de clarté mentale ou émotionnelle."
+  },
+  {
+    "id": 81,
+    "fr": "Libération",
+    "en": "Liberation",
+    "es": "",
+    "definition": "Sentiment d’émancipation."
+  },
+  {
+    "id": 82,
+    "fr": "Oppression",
+    "en": "Oppression",
+    "es": "",
+    "definition": "Sensation d’écrasement psychique ou physique."
+  },
+  {
+    "id": 83,
+    "fr": "Rigueur",
+    "en": "Strictness",
+    "es": "",
+    "definition": "Tendance à la discipline ou l’exigence."
+  },
+  {
+    "id": 84,
+    "fr": "Insatisfaction",
+    "en": "Dissatisfaction",
+    "es": "",
+    "definition": "Sentiment de manque ou d’inachevé."
+  },
+  {
+    "id": 85,
+    "fr": "Émergence",
+    "en": "Emergence",
+    "es": "",
+    "definition": "Sensation de naissance d’un ressenti ou d’une idée."
+  },
+  {
+    "id": 86,
+    "fr": "Engouement",
+    "en": "Craze",
+    "es": "",
+    "definition": "Intérêt soudain et intense."
+  },
+  {
+    "id": 87,
+    "fr": "Dignité",
+    "en": "Dignity",
+    "es": "",
+    "definition": "Conscience de sa propre valeur."
+  },
+  {
+    "id": 88,
+    "fr": "Séduction",
+    "en": "Seduction",
+    "es": "",
+    "definition": "Charme volontairement exercé."
+  },
+  {
+    "id": 89,
+    "fr": "Compulsion",
+    "en": "Compulsion",
+    "es": "",
+    "definition": "Poussée incontrôlable à agir."
+  },
+  {
+    "id": 90,
+    "fr": "Neutralité",
+    "en": "Neutrality",
+    "es": "",
+    "definition": "Absence de jugement ou d’émotion marquée."
+  },
+  {
+    "id": 91,
+    "fr": "Défaite",
+    "en": "Defeat",
+    "es": "",
+    "definition": "Sentiment d’échec ou de perte."
+  },
+  {
+    "id": 92,
+    "fr": "Renaissance",
+    "en": "Rebirth",
+    "es": "",
+    "definition": "Sensation de renouveau profond."
+  },
+  {
+    "id": 93,
+    "fr": "Fierté blessée",
+    "en": "Wounded pride",
+    "es": "",
+    "definition": "Orgueil touché par une offense."
+  },
+  {
+    "id": 94,
+    "fr": "Humiliation",
+    "en": "Humiliation",
+    "es": "",
+    "definition": "Honte infligée publiquement."
+  },
+  {
+    "id": 95,
+    "fr": "Griserie",
+    "en": "Euphoria",
+    "es": "",
+    "definition": "Excès de joie ou d’excitation."
+  },
+  {
+    "id": 96,
+    "fr": "Crainte",
+    "en": "Apprehension",
+    "es": "",
+    "definition": "Peur modérée d’un danger à venir."
+  }
+]
