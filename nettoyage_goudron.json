@@ -19,6 +19,7 @@
   "18": "Après l'arrêt du tabac, Le sang circule plus librement vers le cerveau. Moins de brouillard mental. Plus de concentration. Tu retrouves l’élan. Beaucoup ont cru devenir lents avec l’âge. C’était la fumée. Pas le temps.",
   "19": "Sans fumée, la peau change. Moins de gris, plus d’oxygène. Le teint s’ouvre, les cellules se renouvellent. Tu redeviens visible à toi-même. Tu laisses tomber le masque que la clope dessinait lentement.",
   "20": "Depuis l'arrêt du tabac, tu es en train de désactiver un programme de mort lente. Le corps n’a pas oublié ce qu’est la santé. Tu rétablis le lien. Tu fais confiance à ton système. Il te le rendra.",
-  "21": "Trois semaines. C’est le temps que le cerveau met à briser un conditionnement fort. Ce n’est plus une envie, c’est un souvenir. Tu viens de sortir d’une boucle générationnelle. Tu écris autre chose."
+  "21": "Trois semaines. C’est le temps que le cerveau met à briser un conditionnement fort. Ce n’est plus une envie, c’est un souvenir. Tu viens de sortir d’une boucle générationnelle. Tu écris autre chose.",
+  "22": "SI je ressens une envie de fumer, ALORS je m’assois 2 minutes, je respire par le nez en comptant jusqu’à 4 à l’inspiration, et jusqu’à 6 à l’expiration."
 }
 
