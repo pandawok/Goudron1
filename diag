@@ -1,0 +1,34 @@
+{
+  "P01": {
+    "titre": "Vide de Qi avec stagnation basse",
+    "htmlContent": "<h1>P01 – Vide de Qi avec stagnation basse</h1><p><strong>Explication :</strong> Le Qi est insuffisant pour faire monter et circuler l’énergie dans le corps. Cela entraîne une fatigue générale et une mauvaise irrigation des membres inférieurs.</p><h2>Symptômes</h2><ul><li>Fatigue chronique</li><li>Essoufflement</li><li>Jambes froides et gonflées</li><li>Faible appétit</li></ul><h2>Conseils</h2><ul><li>Repos profond et régulier</li><li>Alimentation chaude, céréales, soupe de riz</li><li>Tisane de gingembre doux</li></ul>"
+  },
+  "P02": {
+    "titre": "Excès de Yang avec montée de chaleur",
+    "htmlContent": "<h1>P02 – Excès de Yang avec montée de chaleur</h1><p><strong>Explication :</strong> Le Yang est trop puissant, entraînant de la chaleur excessive vers le haut du corps et de l’agitation mentale.</p><h2>Symptômes</h2><ul><li>Tête chaude</li><li>Yeux rouges</li><li>Agitation</li><li>Insomnie</li></ul><h2>Conseils</h2><ul><li>Tisanes rafraîchissantes (menthe, chrysanthème)</li><li>Réduire les stimulants</li><li>Repos à l’ombre</li></ul>"
+  },
+  "P03": {
+    "titre": "Vide de Sang avec stagnation de Qi",
+    "htmlContent": "<h1>P03 – Vide de Sang avec stagnation de Qi</h1><p><strong>Explication :</strong> Le Sang est insuffisant pour nourrir les organes et l’esprit, et le Qi circule mal.</p><h2>Symptômes</h2><ul><li>Vertiges</li><li>Pâleur</li><li>Tensions musculaires</li><li>Agitation mentale</li></ul><h2>Conseils</h2><ul><li>Dattes, betterave, sésame noir</li><li>Respiration calme</li><li>Tisane d’angélique chinoise</li></ul>"
+  },
+  "P04": {
+    "titre": "Stagnation de Froid avec Vide de Yang",
+    "htmlContent": "<h1>P04 – Stagnation de Froid avec Vide de Yang</h1><p><strong>Explication :</strong> Le froid interne empêche la circulation, le Yang est trop faible pour réchauffer les organes.</p><h2>Symptômes</h2><ul><li>Mains/pieds froids</li><li>Urines claires</li><li>Fatigue matinale</li></ul><h2>Conseils</h2><ul><li>Gingembre sec, cannelle douce</li><li>Chaleur locale</li><li>Éviter les crudités</li></ul>"
+  },
+  "P05": {
+    "titre": "Chaleur vide avec montée de feu",
+    "htmlContent": "<h1>P05 – Chaleur vide avec montée de feu</h1><p><strong>Explication :</strong> Un vide de Yin laisse le Feu monter sans contrôle, produisant sécheresse et agitation nocturne.</p><h2>Symptômes</h2><ul><li>Sueurs nocturnes</li><li>Bouche sèche</li><li>Palpitations le soir</li></ul><h2>Conseils</h2><ul><li>Poire, tofu, sésame noir</li><li>Repos, calme émotionnel</li><li>Tisane de mûrier blanc</li></ul>"
+  },
+  "P06": {
+    "titre": "Blocage du Qi avec tension interne",
+    "htmlContent": "<h1>P06 – Blocage du Qi avec tension interne</h1><p><strong>Explication :</strong> L’énergie ne circule pas, souvent liée au stress ou aux émotions refoulées.</p><h2>Symptômes</h2><ul><li>Oppression thoracique</li><li>Sautes d’humeur</li><li>Tension dans le ventre</li></ul><h2>Conseils</h2><ul><li>Respiration abdominale</li><li>Marche douce</li><li>Tisane de basilic sacré</li></ul>"
+  },
+  "P07": {
+    "titre": "Froid interne avec vide de Sang",
+    "htmlContent": "<h1>P07 – Froid interne avec vide de Sang</h1><p><strong>Explication :</strong> Le froid ralentit la production de sang, provoquant fatigue et stagnation.</p><h2>Symptômes</h2><ul><li>Membres froids</li><li>Vertiges</li><li>Règles claires ou absentes</li></ul><h2>Conseils</h2><ul><li>Soupes de légumes racines</li><li>Gingembre confit</li><li>Éviter laitages et crudités</li></ul>"
+  },
+  "P08": {
+    "titre": "Excès de Froid bloqué dans le bas",
+    "htmlContent": "<h1>P08 – Excès de Froid bloqué dans le bas</h1><p><strong>Explication :</strong> Le froid s’accumule dans le bas du corps, bloquant la circulation sanguine et énergétique.</p><h2>Symptômes</h2><ul><li>Douleurs lombaires</li><li>Jambes engourdies</li><li>Urines fréquentes</li></ul><h2>Conseils</h2><ul><li>Compresses chaudes</li><li>Soupes de riz au gingembre</li><li>Bouillotte sur les reins</li></ul>"
+  }
+}
