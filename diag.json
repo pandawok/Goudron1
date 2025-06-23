@@ -1,99 +1,266 @@
 {
-  "P01": {
-    "titre": "Vide de Qi avec stagnation basse",
-    "htmlContent": "<h1>P01 – Vide de Qi avec stagnation basse</h1><p><strong>Explication :</strong> Le Qi est insuffisant pour faire monter et circuler l’énergie dans le corps. Cela entraîne une fatigue générale et une mauvaise irrigation des membres inférieurs.</p><h2>Symptômes</h2><ul><li>Fatigue chronique</li><li>Essoufflement</li><li>Jambes froides et gonflées</li><li>Faible appétit</li></ul><h2>Conseils</h2><ul><li>Repos profond et régulier</li><li>Alimentation chaude, céréales, soupe de riz</li><li>Tisane de gingembre doux</li></ul>"
+  "P1": {
+    "titre": "Profil énergétique P1",
+    "description": "Description générale du profil P1, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
-  "P02": {
-    "titre": "Excès de Yang avec montée de chaleur",
-    "htmlContent": "<h1>P02 – Excès de Yang avec montée de chaleur</h1><p><strong>Explication :</strong> Le Yang est trop puissant, entraînant de la chaleur excessive vers le haut du corps et de l’agitation mentale.</p><h2>Symptômes</h2><ul><li>Tête chaude</li><li>Yeux rouges</li><li>Agitation</li><li>Insomnie</li></ul><h2>Conseils</h2><ul><li>Tisanes rafraîchissantes (menthe, chrysanthème)</li><li>Réduire les stimulants</li><li>Repos à l’ombre</li></ul>"
+  "P2": {
+    "titre": "Profil énergétique P2",
+    "description": "Description générale du profil P2, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
-  "P03": {
-    "titre": "Vide de Sang avec stagnation de Qi",
-    "htmlContent": "<h1>P03 – Vide de Sang avec stagnation de Qi</h1><p><strong>Explication :</strong> Le Sang est insuffisant pour nourrir les organes et l’esprit, et le Qi circule mal.</p><h2>Symptômes</h2><ul><li>Vertiges</li><li>Pâleur</li><li>Tensions musculaires</li><li>Agitation mentale</li></ul><h2>Conseils</h2><ul><li>Dattes, betterave, sésame noir</li><li>Respiration calme</li><li>Tisane d’angélique chinoise</li></ul>"
+  "P3": {
+    "titre": "Profil énergétique P3",
+    "description": "Description générale du profil P3, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
-  "P04": {
-    "titre": "Stagnation de Froid avec Vide de Yang",
-    "htmlContent": "<h1>P04 – Stagnation de Froid avec Vide de Yang</h1><p><strong>Explication :</strong> Le froid interne empêche la circulation, le Yang est trop faible pour réchauffer les organes.</p><h2>Symptômes</h2><ul><li>Mains/pieds froids</li><li>Urines claires</li><li>Fatigue matinale</li></ul><h2>Conseils</h2><ul><li>Gingembre sec, cannelle douce</li><li>Chaleur locale</li><li>Éviter les crudités</li></ul>"
+  "P4": {
+    "titre": "Profil énergétique P4",
+    "description": "Description générale du profil P4, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
-  "P05": {
-    "titre": "Chaleur vide avec montée de feu",
-    "htmlContent": "<h1>P05 – Chaleur vide avec montée de feu</h1><p><strong>Explication :</strong> Un vide de Yin laisse le Feu monter sans contrôle, produisant sécheresse et agitation nocturne.</p><h2>Symptômes</h2><ul><li>Sueurs nocturnes</li><li>Bouche sèche</li><li>Palpitations le soir</li></ul><h2>Conseils</h2><ul><li>Poire, tofu, sésame noir</li><li>Repos, calme émotionnel</li><li>Tisane de mûrier blanc</li></ul>"
+  "P5": {
+    "titre": "Profil énergétique P5",
+    "description": "Description générale du profil P5, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
-  "P06": {
-    "titre": "Blocage du Qi avec tension interne",
-    "htmlContent": "<h1>P06 – Blocage du Qi avec tension interne</h1><p><strong>Explication :</strong> L’énergie ne circule pas, souvent liée au stress ou aux émotions refoulées.</p><h2>Symptômes</h2><ul><li>Oppression thoracique</li><li>Sautes d’humeur</li><li>Tension dans le ventre</li></ul><h2>Conseils</h2><ul><li>Respiration abdominale</li><li>Marche douce</li><li>Tisane de basilic sacré</li></ul>"
+  "P6": {
+    "titre": "Profil énergétique P6",
+    "description": "Description générale du profil P6, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
-  "P07": {
-    "titre": "Froid interne avec vide de Sang",
-    "htmlContent": "<h1>P07 – Froid interne avec vide de Sang</h1><p><strong>Explication :</strong> Le froid ralentit la production de sang, provoquant fatigue et stagnation.</p><h2>Symptômes</h2><ul><li>Membres froids</li><li>Vertiges</li><li>Règles claires ou absentes</li></ul><h2>Conseils</h2><ul><li>Soupes de légumes racines</li><li>Gingembre confit</li><li>Éviter laitages et crudités</li></ul>"
+  "P7": {
+    "titre": "Profil énergétique P7",
+    "description": "Description générale du profil P7, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
-  "P08": {
-    "titre": "Excès de Froid bloqué dans le bas",
-    "htmlContent": "<h1>P08 – Excès de Froid bloqué dans le bas</h1><p><strong>Explication :</strong> Le froid s’accumule dans le bas du corps, bloquant la circulation sanguine et énergétique.</p><h2>Symptômes</h2><ul><li>Douleurs lombaires</li><li>Jambes engourdies</li><li>Urines fréquentes</li></ul><h2>Conseils</h2><ul><li>Compresses chaudes</li><li>Soupes de riz au gingembre</li><li>Bouillotte sur les reins</li></ul>"
-  }
-  ,
-  "P09": {
-    "titre": "Vide de Yin avec agitation du Cœur",
-    "htmlContent": "<h1>P09 – Vide de Yin avec agitation du Cœur</h1><p><strong>Explication :</strong> Le Yin n'humidifie plus le cœur, provoquant chaleur et agitation mentale.</p><h2>Symptômes</h2><ul><li>Insomnie</li><li>Sueurs nocturnes</li><li>Bouche sèche</li><li>Langue rouge</li></ul><h2>Conseils</h2><ul><li>Poire, sésame noir, gelée royale</li><li>Calme émotionnel</li><li>Tisane de muguet ou de fleurs de lotus</li></ul>"
+  "P8": {
+    "titre": "Profil énergétique P8",
+    "description": "Description générale du profil P8, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
+  },
+  "P9": {
+    "titre": "Profil énergétique P9",
+    "description": "Description générale du profil P9, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P10": {
-    "titre": "Excès de Chaleur humide",
-    "htmlContent": "<h1>P10 – Excès de Chaleur humide</h1><p><strong>Explication :</strong> Chaleur combinée à l’humidité bloque les fonctions digestives et l’élimination.</p><h2>Symptômes</h2><ul><li>Lourdeurs</li><li>Transpiration collante</li><li>Langue jaune et grasse</li></ul><h2>Conseils</h2><ul><li>Éviter graisses et sucres</li><li>Fenouil, citronnelle</li><li>Repos à l’ombre, marche lente</li></ul>"
+    "titre": "Profil énergétique P10",
+    "description": "Description générale du profil P10, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P11": {
-    "titre": "Blocage digestif avec stagnation de Qi",
-    "htmlContent": "<h1>P11 – Blocage digestif avec stagnation de Qi</h1><p><strong>Explication :</strong> Le Qi ne circule plus dans la sphère digestive, causant gaz, lourdeurs et fatigue post-prandiale.</p><h2>Symptômes</h2><ul><li>Ballonnements</li><li>Éructations</li><li>Perte d'appétit</li></ul><h2>Conseils</h2><ul><li>Éviter mélanges complexes</li><li>Tisane de fenouil et anis</li><li>Marche après repas</li></ul>"
+    "titre": "Profil énergétique P11",
+    "description": "Description générale du profil P11, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P12": {
-    "titre": "Montée de Yang sur vide de Yin",
-    "htmlContent": "<h1>P12 – Montée de Yang sur vide de Yin</h1><p><strong>Explication :</strong> Le Yin ne contrôle plus le Yang qui s’élève trop, causant agitation et chaleur sèche.</p><h2>Symptômes</h2><ul><li>Acouphènes</li><li>Vertiges</li><li>Insomnie</li><li>Irritabilité</li></ul><h2>Conseils</h2><ul><li>Hydratation douce</li><li>Tisane de fleur de sureau</li><li>Méditation le soir</li></ul>"
+    "titre": "Profil énergétique P12",
+    "description": "Description générale du profil P12, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P13": {
-    "titre": "Vide de Rate avec humidité",
-    "htmlContent": "<h1>P13 – Vide de Rate avec humidité</h1><p><strong>Explication :</strong> La Rate faible ne transforme plus les liquides, générant humidité, fatigue et gonflements.</p><h2>Symptômes</h2><ul><li>Ballonnements</li><li>Urines troubles</li><li>Jambes lourdes</li></ul><h2>Conseils</h2><ul><li>Riz complet, carottes, poireau</li><li>Éviter produits laitiers</li><li>Tisane de gingembre et réglisse</li></ul>"
+    "titre": "Profil énergétique P13",
+    "description": "Description générale du profil P13, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P14": {
-    "titre": "Blocage du foie par émotions refoulées",
-    "htmlContent": "<h1>P14 – Blocage du foie par émotions refoulées</h1><p><strong>Explication :</strong> Le Qi du Foie ne circule plus, générant stagnation, tensions, douleurs.</p><h2>Symptômes</h2><ul><li>Douleurs costales</li><li>Soupirs fréquents</li><li>Digestion lente</li></ul><h2>Conseils</h2><ul><li>Écoute émotionnelle</li><li>Plantes du foie : chardon, pissenlit</li><li>Exercices respiratoires</li></ul>"
+    "titre": "Profil énergétique P14",
+    "description": "Description générale du profil P14, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P15": {
-    "titre": "Chaleur toxique avec irritation",
-    "htmlContent": "<h1>P15 – Chaleur toxique avec irritation</h1><p><strong>Explication :</strong> Accumulation de chaleur pathogène dans le sang ou les tissus.</p><h2>Symptômes</h2><ul><li>Boutons, urticaire</li><li>Langue rouge</li><li>Soif excessive</li></ul><h2>Conseils</h2><ul><li>Décoctions dépuratives (bardane, pensée sauvage)</li><li>Éviter excès de viande</li><li>Tisane de trèfle rouge</li></ul>"
+    "titre": "Profil énergétique P15",
+    "description": "Description générale du profil P15, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P16": {
-    "titre": "Vide de Rein avec frilosité",
-    "htmlContent": "<h1>P16 – Vide de Rein avec frilosité</h1><p><strong>Explication :</strong> L’énergie des Reins est insuffisante pour chauffer le corps et soutenir la vitalité.</p><h2>Symptômes</h2><ul><li>Frilosité, lombalgie</li><li>Urines fréquentes</li><li>Fatigue chronique</li></ul><h2>Conseils</h2><ul><li>Soupe de haricot noir</li><li>Chaleur sur les reins</li><li>Plantes : cuscuta, eucommia</li></ul>"
+    "titre": "Profil énergétique P16",
+    "description": "Description générale du profil P16, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P17": {
-    "titre": "Vide de Yang du Cœur",
-    "htmlContent": "<h1>P17 – Vide de Yang du Cœur</h1><p><strong>Explication :</strong> Le Yang ne réchauffe plus le Cœur, menant à frilosité, ralentissement mental et palpitations faibles.</p><h2>Symptômes</h2><ul><li>Mains froides</li><li>Souffle court</li><li>Tristesse, abattement</li></ul><h2>Conseils</h2><ul><li>Gingembre, ginseng</li><li>Chaleur affective</li><li>Tisane de cannelle douce</li></ul>"
+    "titre": "Profil énergétique P17",
+    "description": "Description générale du profil P17, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P18": {
-    "titre": "Vide global avec effondrement du Qi",
-    "htmlContent": "<h1>P18 – Vide global avec effondrement du Qi</h1><p><strong>Explication :</strong> L’énergie vitale est très faible, la personne peine à maintenir l’effort physique ou mental.</p><h2>Symptômes</h2><ul><li>Fatigue extrême</li><li>Transpiration au moindre effort</li><li>Vertiges en se levant</li></ul><h2>Conseils</h2><ul><li>Soutien affectif</li><li>Bouillons riches, miel doux</li><li>Repos profond</li></ul>"
+    "titre": "Profil énergétique P18",
+    "description": "Description générale du profil P18, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P19": {
-    "titre": "Blocage du Qi thoracique",
-    "htmlContent": "<h1>P19 – Blocage du Qi thoracique</h1><p><strong>Explication :</strong> Le Qi du Poumon et du Cœur ne circule plus, créant oppression, sensation de manque d’air.</p><h2>Symptômes</h2><ul><li>Oppression thoracique</li><li>Toux sèche ou nerveuse</li><li>Essoufflement</li></ul><h2>Conseils</h2><ul><li>Respiration guidée</li><li>Tisane de guimauve, molène</li><li>Éviter les environnements secs</li></ul>"
+    "titre": "Profil énergétique P19",
+    "description": "Description générale du profil P19, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P20": {
-    "titre": "Froid humide envahissant",
-    "htmlContent": "<h1>P20 – Froid humide envahissant</h1><p><strong>Explication :</strong> L’humidité froide entre dans le corps, ralentit tout et crée lourdeurs, stagnation.</p><h2>Symptômes</h2><ul><li>Membres engourdis</li><li>Lenteur, digestion difficile</li><li>Selles molles</li></ul><h2>Conseils</h2><ul><li>Soupe de poireau, miso</li><li>Éviter exposition au froid</li><li>Chaleur douce régulière</li></ul>"
+    "titre": "Profil énergétique P20",
+    "description": "Description générale du profil P20, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P21": {
-    "titre": "Montée de Yang avec tension artérielle",
-    "htmlContent": "<h1>P21 – Montée de Yang avec tension artérielle</h1><p><strong>Explication :</strong> Le Yang s’élève trop vite, provoquant hypertension, agitation et rougeurs.</p><h2>Symptômes</h2><ul><li>Rougeurs visage</li><li>Irritabilité</li><li>Tension haute</li></ul><h2>Conseils</h2><ul><li>Tisane d’aubépine</li><li>Refroidir par alimentation</li><li>Respiration calme</li></ul>"
+    "titre": "Profil énergétique P21",
+    "description": "Description générale du profil P21, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P22": {
-    "titre": "Stagnation avec extrémités froides",
-    "htmlContent": "<h1>P22 – Stagnation avec extrémités froides</h1><p><strong>Explication :</strong> Le Qi et le Sang circulent mal jusqu’aux extrémités, générant engourdissement et froid.</p><h2>Symptômes</h2><ul><li>Mains/pieds froids</li><li>Raideurs matinales</li><li>Sensation d’obstruction</li></ul><h2>Conseils</h2><ul><li>Exercices doux le matin</li><li>Tisane de cannelle et orange</li><li>Massage circulatoire</li></ul>"
+    "titre": "Profil énergétique P22",
+    "description": "Description générale du profil P22, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P23": {
-    "titre": "Vide de Qi de Rate et de Poumon",
-    "htmlContent": "<h1>P23 – Vide de Qi de Rate et de Poumon</h1><p><strong>Explication :</strong> Faiblesse digestive et respiratoire combinées. L’énergie s'effondre au moindre effort.</p><h2>Symptômes</h2><ul><li>Essoufflement</li><li>Fatigue après repas</li><li>Ballonnements</li></ul><h2>Conseils</h2><ul><li>Riz, millet, dattes rouges</li><li>Éviter les repas froids</li><li>Respiration abdominale</li></ul>"
+    "titre": "Profil énergétique P23",
+    "description": "Description générale du profil P23, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   },
   "P24": {
-    "titre": "Énergie bloquée par surcharge émotionnelle",
-    "htmlContent": "<h1>P24 – Énergie bloquée par surcharge émotionnelle</h1><p><strong>Explication :</strong> Le Qi stagne à cause d’un trop-plein émotionnel non exprimé..</p><h2>Symptômes</h2><ul><li>Boule dans la gorge</li><li>Lourdeur mentale</li><li>Crises de larmes ou colère</li></ul><h2>Conseils</h2><ul><li>Écriture émotionnelle</li><li>Plantes : mélisse, aubépine</li><li>Temps seul en nature</li></ul>"
+    "titre": "Profil énergétique P24",
+    "description": "Description générale du profil P24, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "recommandations": [
+      "Éviter les excès (alimentaires, émotionnels, etc.)",
+      "Favoriser une routine de sommeil régulière",
+      "Adopter une alimentation équilibrée adaptée au profil",
+      "Intégrer une activité physique douce quotidienne (marche, étirement)",
+      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+    ]
   }
 }
