@@ -1,5 +1,6 @@
-{
-  "P1": {
+[
+  {
+    "id": "P1",
     "titre": "Profil énergétique P1",
     "description": "Description générale du profil P1, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -10,7 +11,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P2": {
+  {
+    "id": "P2",
     "titre": "Profil énergétique P2",
     "description": "Description générale du profil P2, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -21,7 +23,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P3": {
+  {
+    "id": "P3",
     "titre": "Profil énergétique P3",
     "description": "Description générale du profil P3, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -32,7 +35,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P4": {
+  {
+    "id": "P4",
     "titre": "Profil énergétique P4",
     "description": "Description générale du profil P4, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -43,7 +47,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P5": {
+  {
+    "id": "P5",
     "titre": "Profil énergétique P5",
     "description": "Description générale du profil P5, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -54,7 +59,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P6": {
+  {
+    "id": "P6",
     "titre": "Profil énergétique P6",
     "description": "Description générale du profil P6, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -65,7 +71,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P7": {
+  {
+    "id": "P7",
     "titre": "Profil énergétique P7",
     "description": "Description générale du profil P7, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -76,7 +83,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P8": {
+  {
+    "id": "P8",
     "titre": "Profil énergétique P8",
     "description": "Description générale du profil P8, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -87,7 +95,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P9": {
+  {
+    "id": "P9",
     "titre": "Profil énergétique P9",
     "description": "Description générale du profil P9, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -98,7 +107,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P10": {
+  {
+    "id": "P10",
     "titre": "Profil énergétique P10",
     "description": "Description générale du profil P10, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -109,7 +119,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P11": {
+  {
+    "id": "P11",
     "titre": "Profil énergétique P11",
     "description": "Description générale du profil P11, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -120,7 +131,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P12": {
+  {
+    "id": "P12",
     "titre": "Profil énergétique P12",
     "description": "Description générale du profil P12, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -131,7 +143,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P13": {
+  {
+    "id": "P13",
     "titre": "Profil énergétique P13",
     "description": "Description générale du profil P13, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -142,7 +155,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P14": {
+  {
+    "id": "P14",
     "titre": "Profil énergétique P14",
     "description": "Description générale du profil P14, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -153,7 +167,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P15": {
+  {
+    "id": "P15",
     "titre": "Profil énergétique P15",
     "description": "Description générale du profil P15, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -164,7 +179,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P16": {
+  {
+    "id": "P16",
     "titre": "Profil énergétique P16",
     "description": "Description générale du profil P16, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -175,7 +191,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P17": {
+  {
+    "id": "P17",
     "titre": "Profil énergétique P17",
     "description": "Description générale du profil P17, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -186,7 +203,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P18": {
+  {
+    "id": "P18",
     "titre": "Profil énergétique P18",
     "description": "Description générale du profil P18, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -197,7 +215,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P19": {
+  {
+    "id": "P19",
     "titre": "Profil énergétique P19",
     "description": "Description générale du profil P19, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -208,7 +227,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P20": {
+  {
+    "id": "P20",
     "titre": "Profil énergétique P20",
     "description": "Description générale du profil P20, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -219,7 +239,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P21": {
+  {
+    "id": "P21",
     "titre": "Profil énergétique P21",
     "description": "Description générale du profil P21, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -230,7 +251,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P22": {
+  {
+    "id": "P22",
     "titre": "Profil énergétique P22",
     "description": "Description générale du profil P22, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -241,7 +263,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P23": {
+  {
+    "id": "P23",
     "titre": "Profil énergétique P23",
     "description": "Description générale du profil P23, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -252,7 +275,8 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   },
-  "P24": {
+  {
+    "id": "P24",
     "titre": "Profil énergétique P24",
     "description": "Description générale du profil P24, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
     "recommandations": [
@@ -263,4 +287,4 @@
       "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
     ]
   }
-}
+]
