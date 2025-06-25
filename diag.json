@@ -1,290 +1,266 @@
-[
-  {
-    "id": "P1",
+{
+  "P1": {
     "titre": "Profil énergétique P1",
-    "description": "Description générale du profil P1, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Vide de Yang du haut : fatigue mentale, frilosité, manque d’élan.",
     "recommandations": [
       "Éviter les excès (alimentaires, émotionnels, etc.)",
       "Favoriser une routine de sommeil régulière",
       "Adopter une alimentation équilibrée adaptée au profil",
       "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Pratiquer des respirations lentes pour réchauffer l’énergie"
     ]
   },
-  {
-    "id": "P2",
+  "P2": {
     "titre": "Profil énergétique P2",
-    "description": "Description générale du profil P2, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Vide de Yin du haut : sécheresse, irritabilité, surchauffe émotionnelle.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Hydrater le corps (tisanes yin, soupes légères)",
+      "Se coucher avant 23 h",
+      "Limiter écrans tardifs et excitants",
+      "Privilégier aliments doux : poires, sésame noir",
+      "Méditation fraîche (scan corporel)"
     ]
   },
-  {
-    "id": "P3",
+  "P3": {
     "titre": "Profil énergétique P3",
-    "description": "Description générale du profil P3, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Excès de Yang du haut : agitation mentale, insomnie, tension nerveuse.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Respirations lentes, cohérence cardiaque",
+      "Éviter café, alcool, sucre le soir",
+      "Ajouter légumes verts amers (carte cœur)",
+      "Étirements nuque/épaules pour faire descendre le Qi",
+      "Bain de pieds tiède avant le coucher"
     ]
   },
-  {
-    "id": "P4",
+  "P4": {
     "titre": "Profil énergétique P4",
-    "description": "Description générale du profil P4, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Excès de Yin du haut : lourdeur de tête, stagnation des pensées.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Mouvements doux de la nuque (8 directions)",
+      "Aliments légers, cuits à la vapeur",
+      "Marcher 20 min après le repas",
+      "Tisane gingembre-citron pour mobiliser",
+      "Massage doux des tempes et front"
     ]
   },
-  {
-    "id": "P5",
+  "P5": {
     "titre": "Profil énergétique P5",
-    "description": "Description générale du profil P5, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Vide de Yang du bas : jambes froides, fatigue chronique, lombalgie.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Gardez bas du dos et pieds au chaud",
+      "Bouillons d’os, cannelle, gingembre doux",
+      "Auto-massage reins : frotter 36 fois",
+      "Petite marche matinale au soleil",
+      "Éviter boissons et aliments glacés"
     ]
   },
-  {
-    "id": "P6",
+  "P6": {
     "titre": "Profil énergétique P6",
-    "description": "Description générale du profil P6, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Vide de Yin du bas : sécheresse lombaire, crampes, insomnie après minuit.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Sésame noir, gelée royale, baies de goji",
+      "Étirements doux de la chaîne postérieure",
+      "Éviter surmenage sexuel / sportif",
+      "Auto-massage plante des pieds avec huile chaude",
+      "Sommeil avant 23 h pour nourrir le Rein"
     ]
   },
-  {
-    "id": "P7",
+  "P7": {
     "titre": "Profil énergétique P7",
-    "description": "Description générale du profil P7, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Excès de Yang du bas : chaleur pelvienne, impatience, envies fréquentes d’uriner.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Réduire épices fortes, alcool",
+      "Infusion de feuille de lotus ou crisantème",
+      "Marche lente en fin de journée",
+      "Respiration abdominale profonde",
+      "Bain de siège tiède 10 min"
     ]
   },
-  {
-    "id": "P8",
+  "P8": {
     "titre": "Profil énergétique P8",
-    "description": "Description générale du profil P8, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Excès de Yin du bas : rétention, lourdeur dans les jambes, œdèmes.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Limiter produits laitiers et sucre",
+      "Drainage lymphatique doux",
+      "Tisane ortie-pissenlit",
+      "Surélever jambes 15 min/soir",
+      "Exercices d’impulsion des mollets"
     ]
   },
-  {
-    "id": "P9",
+  "P9": {
     "titre": "Profil énergétique P9",
-    "description": "Description générale du profil P9, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Vide global de Qi : souffle court, faiblesse, manque de tonus.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Qi gong respiration ouvre-ferme",
+      "Repas réguliers, cuits, tièdes",
+      "Siestes courtes (15 min)",
+      "Marches courtes, fréquentes",
+      "Éviter pensée ruminante (écrire, exprimer)"
     ]
   },
-  {
-    "id": "P10",
+  "P10": {
     "titre": "Profil énergétique P10",
-    "description": "Description générale du profil P10, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Excès (stagnation) de Qi : nervosité généralisée, douleurs migrantes.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Exercices d’ouverture des bras",
+      "Menthe fraîche, basilic dans alimentation",
+      "Exprimer émotions retenues (journal, discussion)",
+      "Auto-tapotements le long des méridiens",
+      "Respiration alternée narines"
     ]
   },
-  {
-    "id": "P11",
+  "P11": {
     "titre": "Profil énergétique P11",
-    "description": "Description générale du profil P11, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Vide de Sang : teint pâle, vertiges, ongles cassants.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Bouillon de poule, dates rouges, épinards",
+      "Sieste courte post-repas",
+      "Acupression 3F/6Rt matin et soir",
+      "Limiter écrans tardifs",
+      "Auto-massage cuir chevelu 3 min"
     ]
   },
-  {
-    "id": "P12",
+  "P12": {
     "titre": "Profil énergétique P12",
-    "description": "Description générale du profil P12, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Excès / chaleur dans le Sang : rougeurs, irritabilité, saignements faciles.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Tisane chrysanthème-réglisse",
+      "Réduire fritures, alcool, piments",
+      "Marche à l’ombre 20 min",
+      "Respiration profonde fraîche",
+      "Visualisation eau calme avant dormir"
     ]
   },
-  {
-    "id": "P13",
+  "P13": {
     "titre": "Profil énergétique P13",
-    "description": "Description générale du profil P13, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Vide global de Yang : frilosité, manque d’initiative, fatigue matinale.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Bain chaud pieds le soir",
+      "Bouillons épicés doux (cannelle)",
+      "S’exposer à la lumière du matin",
+      "Exercices dynamiques courts",
+      "Auto-massage rein (frotter bas-dos)"
     ]
   },
-  {
-    "id": "P14",
+  "P14": {
     "titre": "Profil énergétique P14",
-    "description": "Description générale du profil P14, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Vide global de Yin : chaleur interne le soir, soif, sueurs nocturnes.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Tisane graine de sésame noir",
+      "Éviter travail nocturne",
+      "Respiration lente allongé (4-7-8)",
+      "Fruits frais juteux (poire, pastèque)",
+      "Points 6R / 3F pressions douces"
     ]
   },
-  {
-    "id": "P15",
+  "P15": {
     "titre": "Profil énergétique P15",
-    "description": "Description générale du profil P15, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Excès global de Yang : hyperactivité, hypertension, irritabilité.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Réduire excitants (café, sucre)",
+      "Méditation pleine conscience 10 min",
+      "Tisane aubépine-bractées tilleul",
+      "Étirements colonne en flexion",
+      "Activité calme en soirée (lecture douce)"
     ]
   },
-  {
-    "id": "P16",
+  "P16": {
     "titre": "Profil énergétique P16",
-    "description": "Description générale du profil P16, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Excès global de Yin (stagnation) : lenteur, rétention d’eau, apathie.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Aliments légers, cuits vapeur",
+      "Marche rapide 30 min/jour",
+      "Boire eau tiède citronnée matin",
+      "Auto-tapotement du ventre",
+      "Musique rythmée pour dynamiser"
     ]
   },
-  {
-    "id": "P17",
+  "P17": {
     "titre": "Profil énergétique P17",
-    "description": "Description générale du profil P17, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Blocage de Qi : oppression thoracique, soupirs fréquents.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Respiration costale ouverte",
+      "Étirements bras croisés",
+      "Parler / écrire émotions",
+      "Huile essentielle menthe inhalation",
+      "Massage zone 17VC"
     ]
   },
-  {
-    "id": "P18",
+  "P18": {
     "titre": "Profil énergétique P18",
-    "description": "Description générale du profil P18, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Blocage de Sang : douleurs fixes, zones violacées, masses.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Moxa léger autour de la zone",
+      "Tisane angélique / cannelle",
+      "Étirements longs muscles concernés",
+      "Massage circulaire autour douleur",
+      "Point 36E + 40Rt tonification"
     ]
   },
-  {
-    "id": "P19",
+  "P19": {
     "titre": "Profil énergétique P19",
-    "description": "Description générale du profil P19, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Montée de Yang du Foie : maux de tête, étourdissement, irritabilité.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Tisane chrysanthème, cassia",
+      "Pause écran toutes 30 min",
+      "Rotation douce des yeux + palais langue",
+      "Pression point 3F (Taichong)",
+      "Yoga posture enfant 3 min"
     ]
   },
-  {
-    "id": "P20",
+  "P20": {
     "titre": "Profil énergétique P20",
-    "description": "Description générale du profil P20, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Chaleur interne : bouche amère, langue rouge, agitation.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Réduire viande rouge, alcool",
+      "Concombres, melon, thé vert léger",
+      "Respiration fraîche langue sortie",
+      "Douche tiède plutôt que chaude",
+      "Acupression 2C (Shaofu)"
     ]
   },
-  {
-    "id": "P21",
+  "P21": {
     "titre": "Profil énergétique P21",
-    "description": "Description générale du profil P21, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Humidité interne : lourdeur corporelle, glaires, brouillard mental.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Cuisson vapeur, éviter fritures",
+      "Orthosiphon / pissenlit infusion",
+      "Marche rapide après repas",
+      "Éviter siestes longues en journée",
+      "Auto-massage rate (7Rt)"
     ]
   },
-  {
-    "id": "P22",
+  "P22": {
     "titre": "Profil énergétique P22",
-    "description": "Description générale du profil P22, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Froid interne : frilosité profonde, diarrhées, douleurs soulagées par chaleur.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Gingembre frais décoction",
+      "Chauffe-nuque / bouillotte ventre",
+      "Soupe miso, cannelle douce",
+      "Respiration basse mains sur ventre",
+      "Moxa 8VC (Shenque)"
     ]
   },
-  {
-    "id": "P23",
+  "P23": {
     "titre": "Profil énergétique P23",
-    "description": "Description générale du profil P23, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Vide de Rate : ballonnements, fatigue postprandiale, selles molles.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Manger à heures fixes, bien mastiquer",
+      "Éviter sucre raffiné, produits laitiers froids",
+      "Bouillie millet + dattes rouges",
+      "Exercice basique marche 20 min matin",
+      "Massage sens horaire autour nombril"
     ]
   },
-  {
-    "id": "P24",
+  "P24": {
     "titre": "Profil énergétique P24",
-    "description": "Description générale du profil P24, indiquant les tendances énergétiques et les déséquilibres typiques observés.",
+    "description": "Vide de Rein : fatigue matinale, douleurs lombaires, libido basse.",
     "recommandations": [
-      "Éviter les excès (alimentaires, émotionnels, etc.)",
-      "Favoriser une routine de sommeil régulière",
-      "Adopter une alimentation équilibrée adaptée au profil",
-      "Intégrer une activité physique douce quotidienne (marche, étirement)",
-      "Utiliser des techniques de respiration ou de méditation pour rééquilibrer l’énergie"
+      "Noix, sésame noir, bouillon d’os",
+      "Auto-massage lombaire et talons",
+      "Coucher avant 22 h30",
+      "Respiration Lombaire (aspirer reins)",
+      "Éviter surcharge mentale tard le soir"
     ]
   }
-]
+}
