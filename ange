@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "periods": [
+    {
+      "id": "verite",
+      "label": "VÉRITÉ",
+      "start": "03-21",
+      "end": "04-20",
+      "aspects": ["Respect de la vie", "Immortalité"],
+      "children": ["Authenticité","Stabilité","Identification","Appréciation","Contentement","Enfanter","Dignité","Perfection","Optimisme","Omniprésence","Illumination","Renaissance"]
+    },
+    {
+      "id": "amour",
+      "label": "AMOUR",
+      "start": "04-21",
+      "end": "05-21",
+      "aspects": ["Amour","Accepter ce qui est"],
+      "children": ["Clarté","Discipline","Impersonnalité","Subtilité","Humilité","Franchise","Échange","Calme","Intelligence","Économie","Générosité","Purification"]
+    },
+    {
+      "id": "sagesse",
+      "label": "SAGESSE",
+      "start": "05-21",
+      "end": "06-21",
+      "aspects": ["Parler","Se taire"],
+      "children": ["Engagement","Exister","Savoir","Désintéressement","Expansion","Finesse","Fructification","Renoncement","Attention","Compréhension","Inspiration","Discernement"]
+    },
+    {
+      "id": "ouverture",
+      "label": "OUVERTURE",
+      "start": "06-22",
+      "end": "07-22",
+      "aspects": ["Réceptivité","Résistance aux influences"],
+      "children": ["Bonheur","Douceur","Respiration","Famille","Protection","Confiance","Tendresse","Réconciliation","Harmonie","Fidélité","Alliance","Amélioration"]
+    },
+    {
+      "id": "cache",
+      "label": "CACHÉ",
+      "start": "07-23",
+      "end": "08-22",
+      "aspects": ["Confiance en soi","Humilité"],
+      "children": ["Méditation","Tempérance","Joie","Encouragement","Liberté","Pratique","Prestige","Maîtrise","Spontanéité","Satisfaction","Rajeunissement","Recueillement"]
+    },
+    {
+      "id": "communion",
+      "label": "COMMUNION",
+      "start": "08-23",
+      "end": "09-22",
+      "aspects": ["Lien","Autonomie"],
+      "children": ["Renouvellement","Santé","Guérison","Digestion","Perfectionnement","Foi","Responsabilité","Continence","Sacré","Honnêteté","Droiture","Obéissance"]
+    },
+    {
+      "id": "equilibre",
+      "label": "ÉQUILIBRE",
+      "start": "09-23",
+      "end": "10-22",
+      "aspects": ["Pondération","Vivacité"],
+      "children": ["Naissance","Détermination","Richesse","Pardon","Sacrifice","Noblesse","Construction","Étude","Combativité","Partage","Fraternité","Assiduité"]
+    },
+    {
+      "id": "individualite",
+      "label": "INDIVIDUALITÉ",
+      "start": "10-23",
+      "end": "11-23",
+      "aspects": ["Maîtrise","Laisser libre"],
+      "children": ["Immortalité","Force","Concentration","Sincérité","Dévotion","Fermeté","Compétence","Pondération","Volonté","Puissance","Clairvoyance","Magie"]
+    },
+    {
+      "id": "justice",
+      "label": "JUSTICE",
+      "start": "11-23",
+      "end": "12-21",
+      "aspects": ["Régner","Obéir"],
+      "children": ["Sacrement","Accomplissement","Religion","Conscience","Candeur","Conviction","Évidence","Commandement","Royauté","Courage","Service","Destinée"]
+    },
+    {
+      "id": "universalite",
+      "label": "UNIVERSALITÉ",
+      "start": "12-22",
+      "end": "01-20",
+      "aspects": ["Fidélité","Indépendance"],
+      "children": ["Réussite","Ennoblissement","Connaissance","Éveil","Reconnaissance","Grâce","Art","Prospérité","Victoire","Argent","Attitude","Musique"]
+    },
+    {
+      "id": "paix",
+      "label": "PAIX",
+      "start": "01-21",
+      "end": "02-18",
+      "aspects": ["Courage","Prudence"],
+      "children": ["Aboutissement","Travail","Bonne disposition","Regard","Héroïsme","Beauté","Croissance","Bien","Idéal","Acquisition","Soutien mutuel","Absolu"]
+    },
+    {
+      "id": "purete",
+      "label": "PURETÉ",
+      "start": "02-19",
+      "end": "03-20",
+      "aspects": ["Apparaître","Invisibilité, transparence"],
+      "children": ["Mort","Sensibilité","Bon sens","Résistance","Don","Acte","Geste","Constance","Sanctification","Élévation","Silence","Plénitude"]
+    }
+  ]
+}
